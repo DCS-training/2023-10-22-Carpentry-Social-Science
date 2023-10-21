@@ -12,7 +12,8 @@ During the morning we will be learning how to use R and manipulate data in gener
 
 |              | Session 1a (10:00-11:00)                | Session 1b  (11:00-12:00)               |
 | ------------ | --------------------------------------- | --------------------------------------- |
-| Session Slides | To be released. | To be released. |
+| Session Slides | [Slides only](/files/RSessions/Session1a_Slides.pdf) | [Slides only](/files/RSessions/Session1b_Slides.pdf) |
+| Session R Code | [R code in slides](/files/RSessions/Session1a_Slides.rmd) | [R code in slides](/files/RSessions/Session1b_Slides.rmd)  |
 | Exercises    | [Session 1a Exercises](/files/RSessions/Session1a_Exercises.rmd) | [Session 1b Exercises](/files/RSessions/Session1b_Exercises.rmd) |
 | Solutions    | To be released. | To be released. |
 
