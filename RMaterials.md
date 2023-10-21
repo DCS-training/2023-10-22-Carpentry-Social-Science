@@ -13,7 +13,7 @@ During the morning we will be learning how to use R and manipulate data in gener
 |              | Session 1a (10:00-11:00)                | Session 1b  (11:00-12:00)               |
 | ------------ | --------------------------------------- | --------------------------------------- |
 | Session Slides | To be released. | To be released. |
-| Exercises    | [Session 1a Exercises](2023-10-22-Carpentry-Social-Science/files/RSessions/Session1a_Exercises.rmd) | [Session 1b Exercises](/2023-10-22-Carpentry-Social-Science/files/RSessions/Session1b_Exercises.rmd) |
+| Exercises    | [Session 1a Exercises](/files/RSessions/Session1a_Exercises.rmd) | [Session 1b Exercises](/files/RSessions/Session1b_Exercises.rmd) |
 | Solutions    | To be released. | To be released. |
 
 ## Afternoon Session (14:00-16:00)
@@ -22,5 +22,5 @@ During the afternoon we will be getting to grips with the major packages within 
 |              | Session 2a (14:00-15:00)                | Session 1b (15:00-16:00)                |
 | ------------ | --------------------------------------- | --------------------------------------- |
 | Session Slides | To be released. | To be released. |
-| Exercises    | [Session 2a Exercises](2023-10-22-Carpentry-Social-Science/files/RSessions/Session2a_Exercises.rmd) | [Session 2b Exercises](/2023-10-22-Carpentry-Social-Science/files/RSessions/Session2b_Exercises.rmd) |
+| Exercises    | [Session 2a Exercises](/files/RSessions/Session2a_Exercises.rmd) | [Session 2b Exercises](/files/RSessions/Session2b_Exercises.rmd) |
 | Solutions    | To be released. | To be released. |
