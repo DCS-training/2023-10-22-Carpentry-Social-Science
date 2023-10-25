@@ -15,7 +15,7 @@ During the morning we will be learning how to use R and manipulate data in gener
 | Session Slides | [Slides only](/files/RSessions/Session1a_Slides.pdf) | [Slides only](/files/RSessions/Session1b_Slides.pdf) |
 | Session R Code | [R code in slides](/files/RSessions/Session1a_Slides.rmd) | [R code in slides](/files/RSessions/Session1b_Slides.rmd)  |
 | Exercises    | [Session 1a Exercises](/files/RSessions/Session1a_Exercises.rmd) | [Session 1b Exercises](/files/RSessions/Session1b_Exercises.rmd) |
-| Solutions    | To be released. | To be released. |
+| Solutions    | [Session 1a Solutions](/files/RSessions/Session1a_Solutions.rmd) | To be released. |
 
 ## Afternoon Session (14:00-16:00)
 During the afternoon we will be getting to grips with the major packages within tidyverse which allow us to do good wrangling and visulisation of our data. Find below again the slides, exercises and solutions for the afternoon session.
