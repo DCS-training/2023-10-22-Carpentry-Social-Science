@@ -24,6 +24,6 @@ During the afternoon we will be getting to grips with the major packages within 
 | ------------ | --------------------------------------- | --------------------------------------- |
 | Session Slides | [Slides only](/files/RSessions/Session2a_Slides.pdf) | [Slides only](/files/RSessions/Session2b_Slides.pdf) |
 | Session R Code | [R code in slides](/files/RSessions/Session2a_Slides.rmd) | [R code in slides](/files/RSessions/Session2b_Slides.rmd)  |
-| Longer Notebooks | [R code in slides](/files/RSessions/Session2a_PivotingGuide.Rmd) | [R code in slides](/files/RSessions/Session2b_FullScript.Rmd)  |
+| Longer Notebooks | [Full DC Notebook (Pivoting)](/files/RSessions/Session2a_PivotingGuide.Rmd) | [Full DC Notebook (ggplot)](/files/RSessions/Session2b_FullScript.Rmd)  |
 | Exercises    | [Session 2a Exercises](/files/RSessions/Session2a_Exercises.rmd) | [Session 2b Exercises](/files/RSessions/Session2b_Exercises.rmd) |
 | Solutions    | To be released. | To be released. |
